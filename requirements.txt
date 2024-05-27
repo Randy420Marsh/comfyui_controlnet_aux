@@ -2,7 +2,7 @@ torch
 importlib_metadata
 huggingface_hub
 scipy
-opencv-python-headless>=4.7.0.72
+opencv-python-headless>=4.9.0.80
 filelock
 numpy
 Pillow
@@ -22,3 +22,4 @@ yacs
 trimesh[easy]
 albumentations
 scikit-learn
+scikit-learn-intelex
